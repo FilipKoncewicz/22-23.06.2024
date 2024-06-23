@@ -1,0 +1,15 @@
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\bin\Debug\net8.0\ApmConsole.exe
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\bin\Debug\net8.0\ApmConsole.deps.json
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\bin\Debug\net8.0\ApmConsole.runtimeconfig.json
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\bin\Debug\net8.0\ApmConsole.dll
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\bin\Debug\net8.0\ApmConsole.pdb
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.AssemblyInfoInputs.cache
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.AssemblyInfo.cs
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.csproj.CoreCompileInputs.cache
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.sourcelink.json
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.dll
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\refint\ApmConsole.dll
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.pdb
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ApmConsole.genruntimeconfig.cache
+D:\Prywatne\Codecool\23062024\june23\ApmConsole\obj\Debug\net8.0\ref\ApmConsole.dll
